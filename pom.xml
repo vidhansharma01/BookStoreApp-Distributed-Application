@@ -20,6 +20,7 @@
     <modules>
         <module>bookstore-api-gateway-service</module>
         <module>bookstore-eureka-discovery-service</module>
+        <module>bookstore-account-service</module>
     </modules>
     <packaging>pom</packaging>
 
